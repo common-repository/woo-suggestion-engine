@@ -1,0 +1,536 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Suggestion Engine for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-13 07:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: woo-suggestion-engine"
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/suggestion.php:187
+msgid "Action"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/suggestion.php:220
+msgid "Add suggested products"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:699
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:705
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:711
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:718
+msgid "After content"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:698
+msgid "After payment gateways"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:717
+msgid "After the list of products"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:710
+msgid "After the product summary section"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:704
+msgid "After the table of products"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:342
+msgid ""
+"Allow returning more relevant search results by using synonyms. You can "
+"create multiple lists of different synonyms on each line. Synonyms in the "
+"list should be separated by commas. \n"
+"Example:\n"
+"   mobile,google,samsung,apple,xiaomi\n"
+"   laptop,apple,dell,asus,hp"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:410
+msgid "Allow searching products by some product field with the product's name"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:459
+msgid "Allow showing product categories if found in the results"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:499
+msgid "Allow showing product tags if found in the results"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:662
+msgid "Are you sure to remove this suggestion?"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:696
+msgid "Before billing details"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:695
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:703
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:709
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:715
+msgid "Before content"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:697
+msgid "Before order review"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:716
+msgid "Before the list of products"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:577
+msgid "Best Selling"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:686
+msgid "Best selling products"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:141
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:185
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:258
+msgid "Build search data"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:119
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:169
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/suggestion.php:109
+msgid "Can not save settings now. Please reload and try again."
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:135
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:258
+msgid "Cancel processing"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:446
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:537
+msgid "Categories"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/suggestion.php:168
+msgid "Click to copy the shortcode"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/suggestion.php:175
+msgid "Create shortcode"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:672
+msgid "Desktop"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:665
+msgid "Disable"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:554
+msgid "Drag & drop to set the position for each item on the search result"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:663
+msgid "Edit"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:315
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:452
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:492
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:666
+msgid "Enable"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:380
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:468
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:507
+msgid "Enter your label for search results."
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:687
+msgid "Featured products"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:325
+msgid "Fuzzy search"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:309
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/suggestion.php:144
+msgid "General"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/suggestion.php:152
+msgid "Hide related products"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/suggestion.php:161
+msgid "Hide related products on the single product pages"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/woo-suggestion-engine/"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:670
+msgid "Include categories"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:669
+msgid "Include products"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:579
+msgid "Is on sale off"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:578
+msgid "Latest"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:688
+msgid "Latest products"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:384
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:472
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:511
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:591
+msgid "Limit"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:476
+msgid "Maximum number of suggested categories"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:388
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:595
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:675
+msgid "Maximum number of suggested products"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:515
+msgid "Maximum number of suggested tags"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:559
+msgid "Message if no result"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:673
+msgid "Mobile"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:576
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:694
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:702
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:708
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:714
+msgid "None"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:671
+msgid "Number of columns"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:689
+msgid "On-sale products"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:435
+msgid ""
+"Please choose the product information you want to show on the results with "
+"the product's name"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/frontend/search.php:98
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/frontend/search.php:482
+msgid "Please enter some text to search"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/suggestion.php:186
+msgid "Position"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:397
+msgid "Product description"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:423
+msgid "Product image"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:424
+msgid "Product price"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:396
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:425
+msgid "Product SKU"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:370
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:539
+msgid "Products"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:678
+msgid "Products Suggestion"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/suggestion.php:22
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/suggestion.php:23
+msgid "Products suggestion"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/suggestion.php:145
+msgid "Products suggestion for pages"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:103
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:150
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:258
+msgid "Rebuild search data"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:664
+msgid "Remove"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:416
+msgid "Result information"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:531
+msgid "Result position"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:604
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/suggestion.php:226
+msgid "Save"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:183
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/suggestion.php:131
+msgid "Save settings successfully."
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:310
+msgid "Search config"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:69
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:70
+msgid "Search Engine"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:261
+msgid "Search Engine For WooCommerce"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:392
+msgid "Search in"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:525
+msgid "Search result"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/admin.php:44
+msgid "Settings"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:677
+msgid "Shortcode"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/suggestion.php:166
+msgid "Shortcode to display the list of suggested products:"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:683
+msgid "Show on the cart page"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:681
+msgid "Show on the categories page"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:684
+msgid "Show on the checkout page"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:679
+msgid "Show on the search results page"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:680
+msgid "Show on the shop page"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:682
+msgid "Show on the single product page"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:674
+msgid "Show out-of-stock products"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:676
+msgid "Show suggested products as slide"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:587
+msgid "Show suggested products if no result"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:568
+msgid "Show suggestion"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:265
+msgid "Speed Search"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/suggestion.php:139
+msgid "Suggested products For WooCommerce"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/suggestion.php:185
+msgid "Suggestion"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:60
+msgid "Suggestion Engine"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:59
+msgid "Suggestion Engine For WooCommerce"
+msgstr ""
+
+#. Name of the plugin
+msgid "Suggestion Engine for WooCommerce"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:668
+msgid "Suggestion from"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:338
+msgid "Synonyms"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:486
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:538
+msgid "Tags"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The easiest way helps you sell more products by search engine and suggested "
+"product form your WooCommerce store."
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:270
+msgid ""
+"The plugin uses its own search system to speed up the search on your website."
+" The search data will be automatically generated when installing the plugin "
+"and updated automatically when changing settings or product information. You "
+"can delete the data and switch to using the plugin's AJAX search anytime you "
+"want."
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:134
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:276
+msgid ""
+"The search data is building. Don't worry, it doesn't affect your search "
+"engine. Click <a href=\"admin.php?page=wc-status&tab=logs\" "
+"target=\"_blank\">here</a> to see log."
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:104
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:151
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:283
+msgid ""
+"The search data is built successfully. Click <a href=\"admin.php?page=wc-"
+"status&tab=logs\" target=\"_blank\">here</a> to see log."
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:100
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:147
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:281
+#, php-format
+msgid ""
+"The search data is built successfully. Last build %1s. Click <a href=\"admin."
+"php?page=wc-status&tab=logs\" target=\"_blank\">here</a> to see log."
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:286
+#, php-format
+msgid ""
+"The search data is not built. Click the '%s' button to create data to speed "
+"up the search."
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:142
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:184
+msgid ""
+"The search data is not built. Click the 'Build search data' button to create "
+"data to speed up the search."
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:661
+msgid ""
+"The speed of search may be low than Speed Search. And you can not search "
+"fuzziness."
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:376
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:464
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:503
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:667
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/suggestion.php:184
+msgid "Title"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:333
+msgid "To use this feature, Speed Search must be enabled."
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:690
+msgid "Top-rated products"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:691
+msgid "Top-searched products"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:302
+msgid "Use Ajax Search only"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:114
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/search-engine.php:164
+#: D:/git/free-version/woo-suggestion-engine/woo-suggestion-engine/includes/admin/suggestion.php:104
+msgid "You miss permission to save settings."
+msgstr ""
